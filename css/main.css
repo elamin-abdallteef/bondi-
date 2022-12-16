@@ -1,0 +1,9 @@
+:root{
+    --dark-color: #19283f;
+}
+body{
+    font-family: 'Cairo' ,'Roboto', sans-serif;
+}
+.navbar {
+    background-color: var(--dark-color);
+}
